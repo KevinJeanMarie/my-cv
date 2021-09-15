@@ -1,0 +1,76 @@
+header
+{
+    background-color: #0475ba; 
+    color: white;
+    font-size: 10px;
+}
+
+h1 a
+{
+padding-left: 270px;
+margin-top: 10px;
+color: white;
+font-size: 10px;
+}
+
+
+
+
+h3
+{
+    padding-left: 350px;
+}
+
+
+h4
+{
+    padding-left: 345px;
+    color: #0475ba;
+}
+
+#présentation
+{
+    background-color: #0475ba;
+    color: white;
+    font-size: 17px;
+    
+}
+
+#formations
+{
+    background-color: #0475ba; 
+    font-weight: bold;
+    color: white;
+    padding-left: "30px";
+    font-size: 20px;
+    
+}
+
+
+#présentation p
+{
+    font-weight: bold;
+    
+}
+
+#expérience p
+{
+    font-weight: bold;
+    
+}
+
+#image
+{
+   padding-left: 600px;
+}
+
+#expérience h3
+{
+    color:#0475ba; 
+    
+}
+
+h5 p
+{
+    color: red
+}
