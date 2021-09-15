@@ -33,6 +33,7 @@ h4
     background-color: #0475ba;
     color: white;
     font-size: 17px;
+    padding-left: 350px;
     
 }
 
@@ -41,7 +42,7 @@ h4
     background-color: #0475ba; 
     font-weight: bold;
     color: white;
-    padding-left: "30px";
+    padding-left: 350px;
     font-size: 20px;
     
 }
@@ -70,7 +71,20 @@ h4
     
 }
 
-h5 p
+#réponse1
 {
-    color: red
+    padding-left: 350px;
 }
+
+h6
+{
+    padding-left: 350px;
+    font-size: 20px;
+    color: #0475ba;
+}
+
+#réponse2
+{
+    padding-left: 350px; 
+}
+
